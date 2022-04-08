@@ -1,0 +1,12 @@
+body {
+  background: blue;
+}
+
+.text {
+  font-size: 94px;
+  color: red;
+}
+
+#yellow {
+  color: yellow;
+}
